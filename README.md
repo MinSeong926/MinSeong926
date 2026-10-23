@@ -32,7 +32,7 @@
 <!-- 기술 부분2 -->
 ## 📊 Github stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MinSeong926&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 
   <br>
